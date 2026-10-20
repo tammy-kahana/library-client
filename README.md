@@ -4,6 +4,10 @@
 
 השרת נמצא ב-repository נפרד: `library-server`.
 
+**בענן:** https://library-client-h52y.onrender.com (השרת: https://library-server-cz2j.onrender.com/swagger)
+
+השירותים בתוכנית החינמית "נרדמים" אחרי 15 דקות בלי שימוש. הפנייה הראשונה אחרי זה לוקחת בערך דקה.
+
 ## הרצה
 
 **1.** מפעילים את השרת. ההוראות נמצאות ב-README של השרת.
